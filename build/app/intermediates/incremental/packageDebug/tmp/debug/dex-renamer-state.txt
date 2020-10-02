@@ -1,0 +1,4 @@
+#Thu Oct 01 20:53:39 PDT 2020
+base.0=/Users/NayeliSantamaria/Documents/GitHub/flutter-dicee/flutter-dicee/build/app/intermediates/dex/debug/mergeDexDebug/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
